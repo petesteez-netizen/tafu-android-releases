@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "1.0.39",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.39/TAFU-update.apk",
-  "sha256": "8ce216348765bf8894f0fe964cfa5910a0bc1ea32028267d66f3e79b57ea5d1a",
-  "size": 4696980,
-  "notes": "Finish Android background guidance",
-  "publishedAt": "2026-06-23T23:07:00.526Z"
+  "versionCode": 40,
+  "versionName": "1.0.40",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.40/TAFU-update.apk",
+  "sha256": "63eea0aa3570e73e335a586bc71a3ebed9a40ad2d9507ec5111b9aa21ca93f1c",
+  "size": 4697096,
+  "notes": "Make background cues audible",
+  "publishedAt": "2026-06-23T23:20:45.657Z"
 }
