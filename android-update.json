@@ -1,9 +1,9 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.34",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.34/TAFU-update.apk",
-  "sha256": "78b1df76dfbe4444f146e078ea7ddb6b0a4c90fb76c8dfd7220ab32f09ada090",
-  "size": 4678700,
-  "notes": "Force Android background update build",
-  "publishedAt": "2026-06-23T19:42:59.416Z"
+  "versionCode": 35,
+  "versionName": "1.0.35",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.35/TAFU-update.apk",
+  "sha256": "a9d6d6bb89d320a5170f939cb5e72a283fce94414dd2b97f8679353800aedc5d",
+  "size": 4679860,
+  "notes": "Upgrade sigil reveal artifact visuals",
+  "publishedAt": "2026-06-23T20:48:55.873Z"
 }
