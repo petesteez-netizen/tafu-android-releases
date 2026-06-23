@@ -1,0 +1,9 @@
+{
+  "versionCode": 25,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.25/TAFU-update.apk",
+  "sha256": "7efbb7184558a2c0de98deef39bfcd7eaf89529222a0e86255256360c1f5e0ae",
+  "size": 4678416,
+  "notes": "Move Android updates to GitHub Releases",
+  "publishedAt": "2026-06-23T06:44:51.305Z"
+}
