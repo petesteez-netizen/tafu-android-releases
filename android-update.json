@@ -1,9 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "1.0.38",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.38/TAFU-update.apk",
-  "sha256": "813b89b91ef15af48cae70a6a2484b598ae44a7be85e8d7e7e95aaeb6940b98e",
-  "size": 4685500,
-  "notes": "Add GPU living artifact atmosphere",
-  "publishedAt": "2026-06-23T22:50:50.257Z"
+  "versionCode": 39,
+  "versionName": "1.0.39",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.39/TAFU-update.apk",
+  "sha256": "8ce216348765bf8894f0fe964cfa5910a0bc1ea32028267d66f3e79b57ea5d1a",
+  "size": 4696980,
+  "notes": "Finish Android background guidance",
+  "publishedAt": "2026-06-23T23:07:00.526Z"
 }
