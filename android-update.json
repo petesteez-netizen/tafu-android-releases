@@ -1,9 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.36",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.36/TAFU-update.apk",
-  "sha256": "23d6b790c6f14a574c0f4f80f0fc24ef5ff7e33543c540f70eb836a00597cfc9",
-  "size": 4680712,
-  "notes": "Apply global ancient glass visual polish",
-  "publishedAt": "2026-06-23T21:05:53.381Z"
+  "versionCode": 37,
+  "versionName": "1.0.37",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.37/TAFU-update.apk",
+  "sha256": "391f8b9a41fb018ecc0b012e10d26152ad990c853d5e24b163de554f7912d7ab",
+  "size": 4681816,
+  "notes": "Rebuild Tree of Light artifact styling",
+  "publishedAt": "2026-06-23T21:39:57.861Z"
 }
