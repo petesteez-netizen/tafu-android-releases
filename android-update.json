@@ -1,9 +1,9 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.35",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.35/TAFU-update.apk",
-  "sha256": "a9d6d6bb89d320a5170f939cb5e72a283fce94414dd2b97f8679353800aedc5d",
-  "size": 4679860,
-  "notes": "Upgrade sigil reveal artifact visuals",
-  "publishedAt": "2026-06-23T20:48:55.873Z"
+  "versionCode": 36,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.36/TAFU-update.apk",
+  "sha256": "23d6b790c6f14a574c0f4f80f0fc24ef5ff7e33543c540f70eb836a00597cfc9",
+  "size": 4680712,
+  "notes": "Apply global ancient glass visual polish",
+  "publishedAt": "2026-06-23T21:05:53.381Z"
 }
