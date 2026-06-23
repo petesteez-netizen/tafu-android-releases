@@ -1,9 +1,9 @@
 {
-  "versionCode": 30,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.30/TAFU-update.apk",
-  "sha256": "265431490e8679f53bde17ebf6adaf61eb0b7c919cd457ebe386053c601f9e45",
+  "versionCode": 31,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.31/TAFU-update.apk",
+  "sha256": "1a870e2f2a52ab3d04b29fd7c432809e983a1b682a01a08e3614266071b56be0",
   "size": 4678240,
-  "notes": "Wire Android background bridge",
-  "publishedAt": "2026-06-23T12:22:31.812Z"
+  "notes": "Run Android background patch after sync",
+  "publishedAt": "2026-06-23T12:28:19.080Z"
 }
