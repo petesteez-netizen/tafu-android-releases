@@ -1,9 +1,9 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.33",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.33/TAFU-update.apk",
-  "sha256": "cb4b0a8585d655ccdb788dc4c6a509181e69f4bf25421158a145031ff9b62056",
-  "size": 4678496,
-  "notes": "Load timer guard before app startup",
-  "publishedAt": "2026-06-23T12:44:03.511Z"
+  "versionCode": 34,
+  "versionName": "1.0.34",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.34/TAFU-update.apk",
+  "sha256": "78b1df76dfbe4444f146e078ea7ddb6b0a4c90fb76c8dfd7220ab32f09ada090",
+  "size": 4678700,
+  "notes": "Force Android background update build",
+  "publishedAt": "2026-06-23T19:42:59.416Z"
 }
