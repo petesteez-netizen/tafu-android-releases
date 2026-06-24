@@ -1,9 +1,9 @@
 {
-  "versionCode": 40,
-  "versionName": "1.0.40",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.40/TAFU-update.apk",
-  "sha256": "63eea0aa3570e73e335a586bc71a3ebed9a40ad2d9507ec5111b9aa21ca93f1c",
-  "size": 4697096,
-  "notes": "Make background cues audible",
-  "publishedAt": "2026-06-23T23:20:45.657Z"
+  "versionCode": 48,
+  "versionName": "1.0.48",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.48/TAFU-update.apk",
+  "sha256": "7987feb2fbd22dfaf7e3d5c8e80ed2402676972d580b31304635bd4869270171",
+  "size": 4700108,
+  "notes": "Restore complete node atmosphere source",
+  "publishedAt": "2026-06-24T00:07:29.355Z"
 }
