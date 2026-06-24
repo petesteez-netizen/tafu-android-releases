@@ -1,9 +1,9 @@
 {
-  "versionCode": 48,
-  "versionName": "1.0.48",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.48/TAFU-update.apk",
-  "sha256": "7987feb2fbd22dfaf7e3d5c8e80ed2402676972d580b31304635bd4869270171",
+  "versionCode": 50,
+  "versionName": "1.0.50",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.50/TAFU-update.apk",
+  "sha256": "881cc23e034b39356948758c06703b5a88e476d5327a07d0b5fb0608e5a5ec68",
   "size": 4700108,
-  "notes": "Restore complete node atmosphere source",
-  "publishedAt": "2026-06-24T00:07:29.355Z"
+  "notes": "Put Background Flow in the exit dialog",
+  "publishedAt": "2026-06-24T00:36:13.314Z"
 }
