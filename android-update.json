@@ -1,9 +1,9 @@
 {
-  "versionCode": 56,
-  "versionName": "1.0.56",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.56/TAFU-update.apk",
-  "sha256": "77c82a17730edaad7b0c1e652179fe2f410d51006913f23f3f9a3d5d655920ea",
-  "size": 5365593,
-  "notes": "Add verified native in-app updates and pause Background Flow",
-  "publishedAt": "2026-06-24T01:29:37.164Z"
+  "versionCode": 57,
+  "versionName": "1.0.57",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.57/TAFU-update.apk",
+  "sha256": "c72b2a667e38d71b89505691a954ac487b1b97a58153bcd8fde1bf3b184198a0",
+  "size": 5367217,
+  "notes": "Add chakra meditation environments",
+  "publishedAt": "2026-06-24T02:30:39.257Z"
 }
