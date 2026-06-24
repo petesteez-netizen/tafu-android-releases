@@ -1,9 +1,9 @@
 {
-  "versionCode": 59,
-  "versionName": "1.0.59",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.59/TAFU-update.apk",
-  "sha256": "68c9dbf10be03614bfbe4ab3b9e4c94be2f93f9d62c574f357f0226a26d79b4f",
-  "size": 5371545,
-  "notes": "Guarantee a reward for every sigil",
-  "publishedAt": "2026-06-24T02:47:29.494Z"
+  "versionCode": 60,
+  "versionName": "1.0.60",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.60/TAFU-update.apk",
+  "sha256": "4f43382a1a102208d677bd9e97321fd6e3577bf09aafd53653b5e670d63315b4",
+  "size": 5371565,
+  "notes": "Polish Tree of Light artifact framing",
+  "publishedAt": "2026-06-24T02:49:18.342Z"
 }
