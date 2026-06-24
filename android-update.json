@@ -1,9 +1,9 @@
 {
-  "versionCode": 60,
-  "versionName": "1.0.60",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.60/TAFU-update.apk",
-  "sha256": "4f43382a1a102208d677bd9e97321fd6e3577bf09aafd53653b5e670d63315b4",
-  "size": 5371565,
-  "notes": "Polish Tree of Light artifact framing",
-  "publishedAt": "2026-06-24T02:49:18.342Z"
+  "versionCode": 61,
+  "versionName": "1.0.61",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.61/TAFU-update.apk",
+  "sha256": "9c737df665c25d20ca06d285503ff115e2e64eac53f95d2284fbeeec2be29492",
+  "size": 5371669,
+  "notes": "Use real environmental field recordings for node soundscapes",
+  "publishedAt": "2026-06-24T03:02:36.866Z"
 }
