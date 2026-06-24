@@ -1,9 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.54",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.54/TAFU-update.apk",
-  "sha256": "1a7dcdb83072fcd85421d54151f49ca675b1ec2ff90d290c912cff18666e61d6",
-  "size": 5362130,
-  "notes": "Replace static synthesis with mastered meditation scenes",
-  "publishedAt": "2026-06-24T01:11:45.896Z"
+  "versionCode": 56,
+  "versionName": "1.0.56",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.56/TAFU-update.apk",
+  "sha256": "77c82a17730edaad7b0c1e652179fe2f410d51006913f23f3f9a3d5d655920ea",
+  "size": 5365593,
+  "notes": "Add verified native in-app updates and pause Background Flow",
+  "publishedAt": "2026-06-24T01:29:37.164Z"
 }
