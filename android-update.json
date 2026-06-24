@@ -1,9 +1,9 @@
 {
-  "versionCode": 52,
-  "versionName": "1.0.52",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.52/TAFU-update.apk",
-  "sha256": "b43a5bdf13fcf422543eacdf59230a16e99f7b2d1eeff9fa5a4f7095be5761e5",
-  "size": 4703372,
-  "notes": "Evolve node soundscapes through every breath phase",
-  "publishedAt": "2026-06-24T00:47:37.218Z"
+  "versionCode": 54,
+  "versionName": "1.0.54",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.54/TAFU-update.apk",
+  "sha256": "1a7dcdb83072fcd85421d54151f49ca675b1ec2ff90d290c912cff18666e61d6",
+  "size": 5362130,
+  "notes": "Replace static synthesis with mastered meditation scenes",
+  "publishedAt": "2026-06-24T01:11:45.896Z"
 }
