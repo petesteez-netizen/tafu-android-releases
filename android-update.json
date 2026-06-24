@@ -1,9 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "1.0.50",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.50/TAFU-update.apk",
-  "sha256": "881cc23e034b39356948758c06703b5a88e476d5327a07d0b5fb0608e5a5ec68",
-  "size": 4700108,
-  "notes": "Put Background Flow in the exit dialog",
-  "publishedAt": "2026-06-24T00:36:13.314Z"
+  "versionCode": 52,
+  "versionName": "1.0.52",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.52/TAFU-update.apk",
+  "sha256": "b43a5bdf13fcf422543eacdf59230a16e99f7b2d1eeff9fa5a4f7095be5761e5",
+  "size": 4703372,
+  "notes": "Evolve node soundscapes through every breath phase",
+  "publishedAt": "2026-06-24T00:47:37.218Z"
 }
