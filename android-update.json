@@ -1,9 +1,9 @@
 {
-  "versionCode": 58,
-  "versionName": "1.0.58",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.58/TAFU-update.apk",
-  "sha256": "301809651eaeb947c70b429374ea296daf4deebb1c4a65ae57df0f54fab6d4bc",
-  "size": 5371541,
-  "notes": "Add ceremonial sigil claims and deepen attunement",
-  "publishedAt": "2026-06-24T02:47:06.664Z"
+  "versionCode": 59,
+  "versionName": "1.0.59",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.59/TAFU-update.apk",
+  "sha256": "68c9dbf10be03614bfbe4ab3b9e4c94be2f93f9d62c574f357f0226a26d79b4f",
+  "size": 5371545,
+  "notes": "Guarantee a reward for every sigil",
+  "publishedAt": "2026-06-24T02:47:29.494Z"
 }
