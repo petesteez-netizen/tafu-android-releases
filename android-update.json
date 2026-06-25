@@ -1,9 +1,9 @@
 {
-  "versionCode": 66,
-  "versionName": "1.0.66",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.66/TAFU-update.apk",
-  "sha256": "771c37d2a74aa023c07c6c7552848a173adfcdf5485c702d3f6b44e6fa5fa6cb",
+  "versionCode": 68,
+  "versionName": "1.0.68",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.68/TAFU-update.apk",
+  "sha256": "61fc833ffce4f9f8bbde953cb5f83a2d00c76730cab9cc7fa9f38c58f45cf2dd",
   "size": 5373441,
-  "notes": "Add sigil artifact frame asset",
-  "publishedAt": "2026-06-25T05:16:47.201Z"
+  "notes": "Add root sigil mandala asset",
+  "publishedAt": "2026-06-25T05:17:04.602Z"
 }
