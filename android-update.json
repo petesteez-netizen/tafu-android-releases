@@ -1,9 +1,9 @@
 {
-  "versionCode": 64,
-  "versionName": "1.0.64",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.64/TAFU-update.apk",
-  "sha256": "9bac5438f41624c6943e4d59dd950418b14c5cd8fc63a7a502d24304b9a8632a",
-  "size": 5371809,
-  "notes": "Add artifact sigil card styling",
-  "publishedAt": "2026-06-25T04:23:27.150Z"
+  "versionCode": 65,
+  "versionName": "1.0.65",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.65/TAFU-update.apk",
+  "sha256": "d55fccc07a4102105d0bcf80af4b80b47a220e294de1602b28bba79efd492ae8",
+  "size": 5373441,
+  "notes": "Load artifact sigil card styling",
+  "publishedAt": "2026-06-25T04:24:27.164Z"
 }
