@@ -1,9 +1,9 @@
 {
-  "versionCode": 77,
-  "versionName": "1.0.77",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.77/TAFU-update.apk",
-  "sha256": "2060b955ea67313194ef6efbac97b315f09a76ddb51767e9e6daa23b477bf0c4",
+  "versionCode": 78,
+  "versionName": "1.0.78",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.78/TAFU-update.apk",
+  "sha256": "b667838ed5fdebf9681bf250e9a7277fa368beb8570c05bbbae5a94064c6e5ef",
   "size": 5375249,
-  "notes": "Fix error boundary render after asset import",
-  "publishedAt": "2026-06-25T05:19:29.204Z"
+  "notes": "Add active attunement journey layer",
+  "publishedAt": "2026-06-25T05:39:09.004Z"
 }
