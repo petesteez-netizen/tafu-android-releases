@@ -1,9 +1,9 @@
 {
-  "versionCode": 78,
-  "versionName": "1.0.78",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.78/TAFU-update.apk",
-  "sha256": "b667838ed5fdebf9681bf250e9a7277fa368beb8570c05bbbae5a94064c6e5ef",
+  "versionCode": 79,
+  "versionName": "1.0.79",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.79/TAFU-update.apk",
+  "sha256": "a61838f52782d4e747141ef815a5d75d70ff3ffe8b2c3ce9a372c0b2cf5ff9ff",
   "size": 5375249,
-  "notes": "Add active attunement journey layer",
-  "publishedAt": "2026-06-25T05:39:09.004Z"
+  "notes": "Add expandable sigil animations",
+  "publishedAt": "2026-06-25T05:39:43.251Z"
 }
