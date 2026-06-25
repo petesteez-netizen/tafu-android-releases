@@ -1,9 +1,9 @@
 {
-  "versionCode": 72,
-  "versionName": "1.0.72",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.72/TAFU-update.apk",
-  "sha256": "723578b2a30a67972b84b3adf1cb811b0b7cb25572a9bf3c9b54135295207ad7",
+  "versionCode": 75,
+  "versionName": "1.0.75",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.75/TAFU-update.apk",
+  "sha256": "cb3ba97318d32861fabf06f026ea015887b04408343a223612919c73b26767c6",
   "size": 5373441,
-  "notes": "Add throat sigil mandala asset",
-  "publishedAt": "2026-06-25T05:18:15.046Z"
+  "notes": "Wire real sigil art assets into cards",
+  "publishedAt": "2026-06-25T05:18:45.222Z"
 }
