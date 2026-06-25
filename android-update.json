@@ -1,9 +1,9 @@
 {
-  "versionCode": 69,
-  "versionName": "1.0.69",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.69/TAFU-update.apk",
-  "sha256": "716e84b9c036611b674944cadd81c0744cc7cb44a389fe6bbeb76f21c49fadcb",
+  "versionCode": 70,
+  "versionName": "1.0.70",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.70/TAFU-update.apk",
+  "sha256": "ea8df0653b4a614e52a81528737d09061181689c09906ee6d7b7275d298f3a6c",
   "size": 5373441,
-  "notes": "Add sacral sigil mandala asset",
-  "publishedAt": "2026-06-25T05:17:26.883Z"
+  "notes": "Add solar sigil mandala asset",
+  "publishedAt": "2026-06-25T05:17:32.409Z"
 }
