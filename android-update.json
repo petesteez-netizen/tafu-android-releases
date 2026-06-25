@@ -1,9 +1,9 @@
 {
-  "versionCode": 61,
-  "versionName": "1.0.61",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.61/TAFU-update.apk",
-  "sha256": "9c737df665c25d20ca06d285503ff115e2e64eac53f95d2284fbeeec2be29492",
-  "size": 5371669,
-  "notes": "Use real environmental field recordings for node soundscapes",
-  "publishedAt": "2026-06-24T03:02:36.866Z"
+  "versionCode": 63,
+  "versionName": "1.0.63",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.63/TAFU-update.apk",
+  "sha256": "635fe03ce6731cf3ccdea3523270d9438f18ae158b0539473bf369878514bab7",
+  "size": 5371809,
+  "notes": "Merge pull request #30 from petesteez-netizen/codex/redesign-ui-for-new-look",
+  "publishedAt": "2026-06-25T03:58:47.540Z"
 }
