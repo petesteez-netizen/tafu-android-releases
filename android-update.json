@@ -1,9 +1,9 @@
 {
-  "versionCode": 76,
-  "versionName": "1.0.76",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.76/TAFU-update.apk",
-  "sha256": "20696f905781c6725770a0869f1db78649922c326f25047bd50a15f53b3c2b9d",
-  "size": 5375253,
-  "notes": "Load real sigil art assets",
-  "publishedAt": "2026-06-25T05:19:26.452Z"
+  "versionCode": 77,
+  "versionName": "1.0.77",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.77/TAFU-update.apk",
+  "sha256": "2060b955ea67313194ef6efbac97b315f09a76ddb51767e9e6daa23b477bf0c4",
+  "size": 5375249,
+  "notes": "Fix error boundary render after asset import",
+  "publishedAt": "2026-06-25T05:19:29.204Z"
 }
