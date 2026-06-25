@@ -1,9 +1,9 @@
 {
-  "versionCode": 83,
-  "versionName": "1.0.83",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.83/TAFU-update.apk",
-  "sha256": "07938470338ebbc6c0f49567c4cb88f60c6f6417e69dbafd8b5057def34c8f5c",
-  "size": 5376937,
-  "notes": "Stabilize live attunement visuals",
-  "publishedAt": "2026-06-25T17:22:41.464Z"
+  "versionCode": 84,
+  "versionName": "1.0.84",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.84/TAFU-update.apk",
+  "sha256": "0b7ae2266aa6268fe2e623e4dca3fdfcb18667fcff61afc88738b1cae7e188c3",
+  "size": 5376909,
+  "notes": "Smooth expandable sigils without flicker",
+  "publishedAt": "2026-06-25T17:23:07.080Z"
 }
