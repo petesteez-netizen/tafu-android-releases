@@ -1,9 +1,9 @@
 {
-  "versionCode": 68,
-  "versionName": "1.0.68",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.68/TAFU-update.apk",
-  "sha256": "61fc833ffce4f9f8bbde953cb5f83a2d00c76730cab9cc7fa9f38c58f45cf2dd",
-  "size": 5373441,
-  "notes": "Add root sigil mandala asset",
-  "publishedAt": "2026-06-25T05:17:04.602Z"
+  "versionCode": 67,
+  "versionName": "1.0.67",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.67/TAFU-update.apk",
+  "sha256": "23e9c4bf0967d33ed9e5d5313409bd843345c08b39fabc296aa23d7719d8f526",
+  "size": 5373445,
+  "notes": "Add sigil rune field asset",
+  "publishedAt": "2026-06-25T05:17:11.424Z"
 }
