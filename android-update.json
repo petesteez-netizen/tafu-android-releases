@@ -1,9 +1,9 @@
 {
-  "versionCode": 84,
-  "versionName": "1.0.84",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.84/TAFU-update.apk",
-  "sha256": "0b7ae2266aa6268fe2e623e4dca3fdfcb18667fcff61afc88738b1cae7e188c3",
+  "versionCode": 85,
+  "versionName": "1.0.85",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.85/TAFU-update.apk",
+  "sha256": "2fc8cdebd7c59c749d0706a9bec6b88c2573d96b926f33f414babdd302d4bd87",
   "size": 5376909,
-  "notes": "Smooth expandable sigils without flicker",
-  "publishedAt": "2026-06-25T17:23:07.080Z"
+  "notes": "Trigger flicker fix Android build",
+  "publishedAt": "2026-06-25T17:25:14.029Z"
 }
