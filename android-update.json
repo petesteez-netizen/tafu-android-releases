@@ -1,9 +1,9 @@
 {
-  "versionCode": 80,
-  "versionName": "1.0.80",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.80/TAFU-update.apk",
-  "sha256": "04d05f3acdbabe9451e1a88bcb6a518276c09c190edbe1db5d5bc371f73e8180",
-  "size": 5375249,
-  "notes": "Add active attunement visual effects",
-  "publishedAt": "2026-06-25T05:40:02.605Z"
+  "versionCode": 82,
+  "versionName": "1.0.82",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.82/TAFU-update.apk",
+  "sha256": "8c6cb9e9db75d37096e1164b03dc4612f3ef05a9a6259422435d7387f6401be1",
+  "size": 5376769,
+  "notes": "Publish clean attunement app update",
+  "publishedAt": "2026-06-25T06:24:18.579Z"
 }
