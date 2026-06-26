@@ -1,9 +1,9 @@
 {
-  "versionCode": 90,
-  "versionName": "1.0.90",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.90/TAFU-update.apk",
-  "sha256": "55513cf3fb97662f1f35e1e37b0153392f430b6b6662690e7575e8bf1c0eda7d",
-  "size": 5380585,
-  "notes": "Add inline sigil detail enhancer",
-  "publishedAt": "2026-06-26T02:20:56.852Z"
+  "versionCode": 92,
+  "versionName": "1.0.92",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.92/TAFU-update.apk",
+  "sha256": "3e6cadcad2aedc670021ff4a622bc3d3e40098d39e7813b9e2e92e51fb8fd4e4",
+  "size": 5383817,
+  "notes": "Stabilize inline sigil detail observer",
+  "publishedAt": "2026-06-26T02:21:15.729Z"
 }
