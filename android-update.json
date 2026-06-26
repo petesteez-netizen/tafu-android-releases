@@ -1,9 +1,9 @@
 {
-  "versionCode": 104,
-  "versionName": "1.0.104",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.104/TAFU-update.apk",
-  "sha256": "895bae05213b81359235579d617326602839dc694678987bd0e545f8dcd69100",
-  "size": 5394601,
-  "notes": "Add carried Whisper ascension Sigils",
-  "publishedAt": "2026-06-26T03:51:45.109Z"
+  "versionCode": 106,
+  "versionName": "1.0.106",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.106/TAFU-update.apk",
+  "sha256": "a92e60abfd35fb8f66b8676ef565f1de858526211c4acc17c67f5b6a3d7d2107",
+  "size": 5396857,
+  "notes": "Load Whisper carryover ascension economy",
+  "publishedAt": "2026-06-26T03:52:41.335Z"
 }
