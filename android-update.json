@@ -1,9 +1,9 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0.100",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.100/TAFU-update.apk",
-  "sha256": "03e13fab39719ce88b99ef3b5ffccb842395f8a57e0176aa608ee92e7ea24bf2",
-  "size": 5385917,
-  "notes": "Add vessel shop, stats, and guide database layer",
-  "publishedAt": "2026-06-26T03:43:53.432Z"
+  "versionCode": 101,
+  "versionName": "1.0.101",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.101/TAFU-update.apk",
+  "sha256": "9e0dea1188a5dd00db05b1958f48df1f5521ae2475a4c883c2331289ae7d7170",
+  "size": 5394133,
+  "notes": "Load TAFU meta guide and vessel shop layer",
+  "publishedAt": "2026-06-26T03:43:58.417Z"
 }
