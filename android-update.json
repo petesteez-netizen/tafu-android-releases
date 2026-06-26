@@ -1,9 +1,9 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.106",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.106/TAFU-update.apk",
-  "sha256": "a92e60abfd35fb8f66b8676ef565f1de858526211c4acc17c67f5b6a3d7d2107",
-  "size": 5396857,
-  "notes": "Load Whisper carryover ascension economy",
-  "publishedAt": "2026-06-26T03:52:41.335Z"
+  "versionCode": 105,
+  "versionName": "1.0.105",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.105/TAFU-update.apk",
+  "sha256": "935c601783ed8c569d11d89f4270656de4422452ac65dbcfa0ae0312df388334",
+  "size": 5394601,
+  "notes": "Convert unspent Whispers into Echoes on ascension",
+  "publishedAt": "2026-06-26T03:52:46.575Z"
 }
