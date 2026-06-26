@@ -1,9 +1,9 @@
 {
-  "versionCode": 87,
-  "versionName": "1.0.87",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.87/TAFU-update.apk",
-  "sha256": "dfeee1667d230eda16806c5f8062f1dce5b74be864f851e7e7c483114db25b9c",
+  "versionCode": 88,
+  "versionName": "1.0.88",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.88/TAFU-update.apk",
+  "sha256": "4d426c9367fd8d913e22928ff8b115495e02fab927e882dc44af5bafe496ddf7",
   "size": 5380585,
-  "notes": "Load premium generated assets",
-  "publishedAt": "2026-06-26T01:05:30.853Z"
+  "notes": "Trigger Android premium asset build",
+  "publishedAt": "2026-06-26T01:08:17.969Z"
 }
