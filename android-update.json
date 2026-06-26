@@ -1,9 +1,9 @@
 {
-  "versionCode": 99,
-  "versionName": "1.0.99",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.99/TAFU-update.apk",
-  "sha256": "de6cca4c07d93c744686a9c85773b0aa123c269939b9ba257be681bb29cbb9d1",
-  "size": 5385909,
-  "notes": "Smooth in-place sigil expansion and breath rendering",
-  "publishedAt": "2026-06-26T03:07:32.650Z"
+  "versionCode": 100,
+  "versionName": "1.0.100",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.100/TAFU-update.apk",
+  "sha256": "03e13fab39719ce88b99ef3b5ffccb842395f8a57e0176aa608ee92e7ea24bf2",
+  "size": 5385917,
+  "notes": "Add vessel shop, stats, and guide database layer",
+  "publishedAt": "2026-06-26T03:43:53.432Z"
 }
