@@ -1,9 +1,9 @@
 {
-  "versionCode": 88,
-  "versionName": "1.0.88",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.88/TAFU-update.apk",
-  "sha256": "4d426c9367fd8d913e22928ff8b115495e02fab927e882dc44af5bafe496ddf7",
+  "versionCode": 89,
+  "versionName": "1.0.89",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.89/TAFU-update.apk",
+  "sha256": "98cd31c0fe546c51dda680015880788dca406fa8a36aade9793477c20e9fd89c",
   "size": 5380585,
-  "notes": "Trigger Android premium asset build",
-  "publishedAt": "2026-06-26T01:08:17.969Z"
+  "notes": "Add temple visual leap polish",
+  "publishedAt": "2026-06-26T02:20:24.522Z"
 }
