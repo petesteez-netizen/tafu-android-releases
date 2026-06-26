@@ -1,9 +1,9 @@
 {
-  "versionCode": 107,
-  "versionName": "1.0.107",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.107/TAFU-update.apk",
-  "sha256": "3472340a661935a5459b94fe0b991da03ce1df60c463c8c3ef722cc13bd698a2",
-  "size": 5396857,
-  "notes": "Weave contextual guide access throughout TAFU",
-  "publishedAt": "2026-06-26T04:06:28.536Z"
+  "versionCode": 108,
+  "versionName": "1.0.108",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.108/TAFU-update.apk",
+  "sha256": "bc35b05d166b2200d9636444b3b57e0235786f201c820528915ab9aefcdedbf0",
+  "size": 5396861,
+  "notes": "Add Android flicker guard for breath shrine",
+  "publishedAt": "2026-06-26T04:06:41.622Z"
 }
