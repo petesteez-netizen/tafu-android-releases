@@ -1,9 +1,9 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.111",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.111/TAFU-update.apk",
-  "sha256": "b5b5f658bb070b628af198fb2bf58b93de06795a9a71deb0f49d15eedcf864aa",
-  "size": 5400869,
-  "notes": "Stabilize contextual guide chips",
-  "publishedAt": "2026-06-26T04:07:42.210Z"
+  "versionCode": 112,
+  "versionName": "1.0.112",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.112/TAFU-update.apk",
+  "sha256": "4c6d5c08aef8580894c5a205fa462ea79e238c4b5c9b8a982580f38590c3ea92",
+  "size": 5396857,
+  "notes": "Restore TAFU visual flow by removing heavy guide and flicker guards",
+  "publishedAt": "2026-06-26T04:35:26.396Z"
 }
