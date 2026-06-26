@@ -1,9 +1,9 @@
 {
-  "versionCode": 109,
-  "versionName": "1.0.109",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.109/TAFU-update.apk",
-  "sha256": "35d48c6660e21b210fdf01acb09502cbd2e585d97d29b0e7d922f81f7db594ce",
-  "size": 5396857,
-  "notes": "Consolidate TAFU side-effect systems",
-  "publishedAt": "2026-06-26T04:06:55.796Z"
+  "versionCode": 111,
+  "versionName": "1.0.111",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.111/TAFU-update.apk",
+  "sha256": "b5b5f658bb070b628af198fb2bf58b93de06795a9a71deb0f49d15eedcf864aa",
+  "size": 5400869,
+  "notes": "Stabilize contextual guide chips",
+  "publishedAt": "2026-06-26T04:07:42.210Z"
 }
