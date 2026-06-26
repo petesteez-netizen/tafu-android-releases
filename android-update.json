@@ -1,9 +1,9 @@
 {
-  "versionCode": 113,
-  "versionName": "1.0.113",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.113/TAFU-update.apk",
-  "sha256": "49c1b0462d646db704a5e3585ce331ff81fc8c514e3cd75ed1a7822085801f61",
-  "size": 5396861,
-  "notes": "Move guide button away from path controls",
-  "publishedAt": "2026-06-26T04:50:19.877Z"
+  "versionCode": 114,
+  "versionName": "1.0.114",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.114/TAFU-update.apk",
+  "sha256": "90b03d8626ca3688376fa81868f63b8f321ecc50c5b074bb7e77b86c593306f3",
+  "size": 5397293,
+  "notes": "Dock guide button away from path UI",
+  "publishedAt": "2026-06-26T04:50:29.570Z"
 }
