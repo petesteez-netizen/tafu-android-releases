@@ -1,9 +1,9 @@
 {
-  "versionCode": 98,
-  "versionName": "1.0.98",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.98/TAFU-update.apk",
-  "sha256": "8ef04a5195d4429868b94109b304783798c69f15ec32911040fe6e6f88abae8b",
-  "size": 5385673,
-  "notes": "Keep sigils expanding in place",
-  "publishedAt": "2026-06-26T03:06:58.334Z"
+  "versionCode": 99,
+  "versionName": "1.0.99",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.99/TAFU-update.apk",
+  "sha256": "de6cca4c07d93c744686a9c85773b0aa123c269939b9ba257be681bb29cbb9d1",
+  "size": 5385909,
+  "notes": "Smooth in-place sigil expansion and breath rendering",
+  "publishedAt": "2026-06-26T03:07:32.650Z"
 }
