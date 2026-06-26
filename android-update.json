@@ -1,9 +1,9 @@
 {
-  "versionCode": 95,
-  "versionName": "1.0.95",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.95/TAFU-update.apk",
-  "sha256": "a5c397e65799f6ee8d846ca9c9420c41fa02f6af3fe0a68bf56f1989f1313147",
-  "size": 5385669,
-  "notes": "Move sigil expansion detail inside active card",
-  "publishedAt": "2026-06-26T02:34:34.216Z"
+  "versionCode": 96,
+  "versionName": "1.0.96",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.96/TAFU-update.apk",
+  "sha256": "0c70e817222c343e699d3e3deb71bace8eac43f00149b604c53037a30074bd6c",
+  "size": 5385677,
+  "notes": "Ensure expanded sigil body lays out as card content",
+  "publishedAt": "2026-06-26T02:35:15.627Z"
 }
