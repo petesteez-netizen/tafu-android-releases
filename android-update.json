@@ -1,9 +1,9 @@
 {
-  "versionCode": 83,
-  "versionName": "1.0.83",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.83/TAFU-update.apk",
-  "sha256": "5ff9d859533a5fb9fb79a8cda89ea9e95dc8f0cca0e5310332cbab3dee191d77",
+  "versionCode": 86,
+  "versionName": "1.0.86",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.86/TAFU-update.apk",
+  "sha256": "33e094b8468e4e1a4b43f5559e0e76a4c61dcdda58a05bcd495098e954071c95",
   "size": 5376909,
-  "notes": "Fix flicker in live attunement and sigil animations",
-  "publishedAt": "2026-06-25T17:27:56.443Z"
+  "notes": "Add premium generated asset layer",
+  "publishedAt": "2026-06-26T01:05:03.301Z"
 }
