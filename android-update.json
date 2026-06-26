@@ -1,9 +1,9 @@
 {
-  "versionCode": 101,
-  "versionName": "1.0.101",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.101/TAFU-update.apk",
-  "sha256": "9e0dea1188a5dd00db05b1958f48df1f5521ae2475a4c883c2331289ae7d7170",
+  "versionCode": 102,
+  "versionName": "1.0.102",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.102/TAFU-update.apk",
+  "sha256": "a076fdc9166de3997a1088d3dcee4577941aaa64207544d87112855cbd118096",
   "size": 5394133,
-  "notes": "Load TAFU meta guide and vessel shop layer",
-  "publishedAt": "2026-06-26T03:43:58.417Z"
+  "notes": "Preserve attunement echo bonuses across stale saves",
+  "publishedAt": "2026-06-26T03:44:05.866Z"
 }
