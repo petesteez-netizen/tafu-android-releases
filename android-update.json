@@ -1,9 +1,9 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.102",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.102/TAFU-update.apk",
-  "sha256": "a076fdc9166de3997a1088d3dcee4577941aaa64207544d87112855cbd118096",
-  "size": 5394133,
-  "notes": "Preserve attunement echo bonuses across stale saves",
-  "publishedAt": "2026-06-26T03:44:05.866Z"
+  "versionCode": 103,
+  "versionName": "1.0.103",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.103/TAFU-update.apk",
+  "sha256": "8dec6fbbd83686244f10d8a9e341f11c0954e083dad5bde6efd2ad5820e21415",
+  "size": 5394349,
+  "notes": "Load Echo bonus persistence guard",
+  "publishedAt": "2026-06-26T03:44:47.823Z"
 }
