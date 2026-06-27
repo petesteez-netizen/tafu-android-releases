@@ -1,9 +1,9 @@
 {
-  "versionCode": 118,
-  "versionName": "1.0.118",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.118/TAFU-update.apk",
-  "sha256": "9a7e300d43dfaa9c87873bc2714791e6ea9e9a6056a64bb3f1817b3b39db5182",
-  "size": 5399957,
-  "notes": "Import Android flicker stability pass",
-  "publishedAt": "2026-06-27T01:18:18.763Z"
+  "versionCode": 119,
+  "versionName": "1.0.119",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.119/TAFU-update.apk",
+  "sha256": "bc79d2d1bc28f85ca7e1a6073425c15e69834d6e36fe2c7ddb4a71f727e6cc85",
+  "size": 5400109,
+  "notes": "Stabilize Android atmosphere renderer",
+  "publishedAt": "2026-06-27T01:19:34.565Z"
 }
