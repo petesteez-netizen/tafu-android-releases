@@ -1,9 +1,9 @@
 {
-  "versionCode": 120,
-  "versionName": "1.0.120",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.120/TAFU-update.apk",
-  "sha256": "5cd5415e4fe9eeb47042304b6a3861ce20ffae03142fcfbef5a06a7d6a6537b8",
-  "size": 5397401,
-  "notes": "Disable Android atmosphere canvas flicker",
-  "publishedAt": "2026-06-27T01:41:25.545Z"
+  "versionCode": 121,
+  "versionName": "1.0.121",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.121/TAFU-update.apk",
+  "sha256": "6a97f13ce59ecbea015e22363443629c89558626cd1d1bd5323f9b56b6e75b7e",
+  "size": 5397397,
+  "notes": "Freeze Android full-screen background motion",
+  "publishedAt": "2026-06-27T01:41:38.272Z"
 }
