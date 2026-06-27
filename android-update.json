@@ -1,9 +1,9 @@
 {
-  "versionCode": 121,
-  "versionName": "1.0.121",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.121/TAFU-update.apk",
-  "sha256": "6a97f13ce59ecbea015e22363443629c89558626cd1d1bd5323f9b56b6e75b7e",
-  "size": 5397397,
-  "notes": "Freeze Android full-screen background motion",
-  "publishedAt": "2026-06-27T01:41:38.272Z"
+  "versionCode": 122,
+  "versionName": "1.0.122",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.122/TAFU-update.apk",
+  "sha256": "05742475f9088904012d104aad15adb92e78f8f5e95eb8a9e0d2d0ed084b1f57",
+  "size": 5397829,
+  "notes": "Stabilize Android Tree node rendering",
+  "publishedAt": "2026-06-27T01:50:49.478Z"
 }
