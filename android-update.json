@@ -1,9 +1,9 @@
 {
-  "versionCode": 123,
-  "versionName": "1.0.123",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.123/TAFU-update.apk",
-  "sha256": "d2af50393be81754aae33ac35a117d410f24de2b71c42d88876ed7f3b9e6fb25",
-  "size": 5398221,
-  "notes": "Stabilize Android breath phase rendering",
-  "publishedAt": "2026-06-27T02:50:30.755Z"
+  "versionCode": 124,
+  "versionName": "1.0.124",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.124/TAFU-update.apk",
+  "sha256": "20af1929ea1bcbfc979186a40f3bd8ac6705e76ef2ee8a838a081f93eeb6ec01",
+  "size": 5822193,
+  "notes": "Add generated practice visual layers",
+  "publishedAt": "2026-06-28T04:55:27.871Z"
 }
