@@ -1,9 +1,9 @@
 {
-  "versionCode": 125,
-  "versionName": "1.0.125",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.125/TAFU-update.apk",
-  "sha256": "52a822e09fb0bd87fbe8396d067429e6fa2d788e6c45722b0d8d249ab6618636",
-  "size": 5972591,
-  "notes": "Add reusable temple shell",
-  "publishedAt": "2026-06-28T11:12:40.703Z"
+  "versionCode": 126,
+  "versionName": "1.0.126",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.126/TAFU-update.apk",
+  "sha256": "28ffecfb39c49e231a8a4429f9eed88a22935df65ecc2b0a42d356c0de339a0d",
+  "size": 5972687,
+  "notes": "Tune temple practice composition",
+  "publishedAt": "2026-06-28T11:35:45.791Z"
 }
