@@ -1,9 +1,9 @@
 {
-  "versionCode": 124,
-  "versionName": "1.0.124",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.124/TAFU-update.apk",
-  "sha256": "20af1929ea1bcbfc979186a40f3bd8ac6705e76ef2ee8a838a081f93eeb6ec01",
-  "size": 5822193,
-  "notes": "Add generated practice visual layers",
-  "publishedAt": "2026-06-28T04:55:27.871Z"
+  "versionCode": 125,
+  "versionName": "1.0.125",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.125/TAFU-update.apk",
+  "sha256": "52a822e09fb0bd87fbe8396d067429e6fa2d788e6c45722b0d8d249ab6618636",
+  "size": 5972591,
+  "notes": "Add reusable temple shell",
+  "publishedAt": "2026-06-28T11:12:40.703Z"
 }
