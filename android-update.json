@@ -1,9 +1,9 @@
 {
-  "versionCode": 138,
-  "versionName": "1.0.138",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.138/TAFU-update.apk",
-  "sha256": "0178d12b138b417ea5034dbe2db8332b0c3cfbcb22581c37c9d70028eac77e6b",
-  "size": 5975671,
-  "notes": "Fit practice screen and attunement visuals",
-  "publishedAt": "2026-06-28T22:00:36.107Z"
+  "versionCode": 139,
+  "versionName": "1.0.139",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.139/TAFU-update.apk",
+  "sha256": "e9f15136c6217794d3e1b7870c4a4923990acc76af868abd010f96e63d3184b5",
+  "size": 5976107,
+  "notes": "Polish tree attunement petals",
+  "publishedAt": "2026-06-28T22:14:22.876Z"
 }
