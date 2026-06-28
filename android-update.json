@@ -1,9 +1,9 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.136",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.136/TAFU-update.apk",
-  "sha256": "6aaecda0eb2e1f687013354d0b96b68f2ef4b1beed3fb7b10a1791ea40133927",
-  "size": 5974775,
-  "notes": "Restore upgrade light cue",
-  "publishedAt": "2026-06-28T17:39:36.348Z"
+  "versionCode": 137,
+  "versionName": "1.0.137",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.137/TAFU-update.apk",
+  "sha256": "7e3026f980a983cbf4e229eaf802949cc3ffe52466ddb0337ab2e61754f98914",
+  "size": 5975379,
+  "notes": "Tune practice geometry and streak rewards",
+  "publishedAt": "2026-06-28T18:29:14.218Z"
 }
