@@ -1,9 +1,9 @@
 {
-  "versionCode": 129,
-  "versionName": "1.0.129",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.129/TAFU-update.apk",
-  "sha256": "af89831a26dffde82cb842f1fe99eb4ba936a54cccec795b962c4f801bc9a9da",
-  "size": 5972815,
-  "notes": "Lock mobile practice viewport",
-  "publishedAt": "2026-06-28T12:33:02.052Z"
+  "versionCode": 130,
+  "versionName": "1.0.130",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.130/TAFU-update.apk",
+  "sha256": "4edf845fce143034e63705fd033b9834adbf72ce1a53531906042289e7364db4",
+  "size": 5973351,
+  "notes": "Deepen practice temple staging",
+  "publishedAt": "2026-06-28T13:03:24.830Z"
 }
