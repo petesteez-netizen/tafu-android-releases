@@ -1,9 +1,9 @@
 {
-  "versionCode": 132,
-  "versionName": "1.0.132",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.132/TAFU-update.apk",
-  "sha256": "14968152459fd178ab940c167dc19331bf462039c78aabf3cc1eebefd61e1636",
-  "size": 5973527,
-  "notes": "Anchor opening countdown to vessel",
-  "publishedAt": "2026-06-28T13:32:53.041Z"
+  "versionCode": 133,
+  "versionName": "1.0.133",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.133/TAFU-update.apk",
+  "sha256": "e3f50b0083970d3c7700f886c9f6d0eb9e03ee64ccf55b33e74edd228e1c72ff",
+  "size": 5973523,
+  "notes": "Lighten opening countdown halo",
+  "publishedAt": "2026-06-28T13:50:51.841Z"
 }
