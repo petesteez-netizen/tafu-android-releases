@@ -1,9 +1,9 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.134",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.134/TAFU-update.apk",
-  "sha256": "257af3d9535b6bddac0c5af3a71e75013083c0999d06e061755a391de98c15f8",
-  "size": 5973531,
-  "notes": "Tune light body countdown anchor",
-  "publishedAt": "2026-06-28T14:04:35.869Z"
+  "versionCode": 135,
+  "versionName": "1.0.135",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.135/TAFU-update.apk",
+  "sha256": "417dd37501ffdfd805d64a88db669ef7fe975b93704d8805ff921cfb2c846208",
+  "size": 5973627,
+  "notes": "Preserve opening gate when closing path",
+  "publishedAt": "2026-06-28T16:38:57.346Z"
 }
