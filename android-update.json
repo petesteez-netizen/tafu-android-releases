@@ -1,9 +1,9 @@
 {
-  "versionCode": 139,
-  "versionName": "1.0.139",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.139/TAFU-update.apk",
-  "sha256": "e9f15136c6217794d3e1b7870c4a4923990acc76af868abd010f96e63d3184b5",
-  "size": 5976107,
-  "notes": "Polish tree attunement petals",
-  "publishedAt": "2026-06-28T22:14:22.876Z"
+  "versionCode": 142,
+  "versionName": "1.0.142",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.142/TAFU-update.apk",
+  "sha256": "879191617fad7f71240463f622d2f4d13b284181593ccde98e797818ce869e05",
+  "size": 6979616,
+  "notes": "Compress tree assets for Android build",
+  "publishedAt": "2026-06-29T00:04:44.385Z"
 }
