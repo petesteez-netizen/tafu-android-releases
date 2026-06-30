@@ -1,9 +1,9 @@
 {
-  "versionCode": 151,
-  "versionName": "1.0.151",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.151/TAFU-update.apk",
-  "sha256": "e2aa1ece3874d5ceffa851448f7195cb798daf5dbe60f4b062fe0cb5d89cd1ce",
-  "size": 7563666,
-  "notes": "Move sigil ceremony to claim and fix tree side nodes",
-  "publishedAt": "2026-06-30T16:49:37.947Z"
+  "versionCode": 152,
+  "versionName": "1.0.152",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.152/TAFU-update.apk",
+  "sha256": "e6ee751a0b5c5410abf043d6fe99ab47b621271782eb311cb8adc13ae8f49221",
+  "size": 8057560,
+  "notes": "Add generated sigil relic medallions",
+  "publishedAt": "2026-06-30T16:55:11.960Z"
 }
