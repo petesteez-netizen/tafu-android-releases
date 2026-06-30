@@ -1,9 +1,9 @@
 {
-  "versionCode": 148,
-  "versionName": "1.0.148",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.148/TAFU-update.apk",
-  "sha256": "8b20f0b75a94fdc87adff210a96960c51d226a90cf2e1011bdeff3ffddd6de75",
-  "size": 7562654,
-  "notes": "Retool sigils for claimable rewards",
-  "publishedAt": "2026-06-30T11:30:04.357Z"
+  "versionCode": 149,
+  "versionName": "1.0.149",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.149/TAFU-update.apk",
+  "sha256": "474840b81364efa715ece885f20da459fe52353bd23129e0f734b72600a5a206",
+  "size": 7561162,
+  "notes": "Remove sigil carousel behavior",
+  "publishedAt": "2026-06-30T11:49:14.442Z"
 }
