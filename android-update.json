@@ -1,9 +1,9 @@
 {
-  "versionCode": 155,
-  "versionName": "1.0.155",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.155/TAFU-update.apk",
-  "sha256": "e3408925f547c4a7cc9de797c02ef2ce00d569b9e6d083ec2fd8698fa1147604",
-  "size": 8061924,
-  "notes": "Anchor tree upgrades to the visual board",
-  "publishedAt": "2026-06-30T23:21:37.241Z"
+  "versionCode": 156,
+  "versionName": "1.0.156",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.156/TAFU-update.apk",
+  "sha256": "1d0d2c0ddd25a5682f27f709f56a3f3c6db32c4901da5ef47a4c569d407964af",
+  "size": 8061376,
+  "notes": "Remove tree side cards from board view",
+  "publishedAt": "2026-06-30T23:34:17.624Z"
 }
