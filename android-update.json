@@ -1,9 +1,9 @@
 {
-  "versionCode": 154,
-  "versionName": "1.0.154",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.154/TAFU-update.apk",
-  "sha256": "fe3ddf55858ce70c868e6a6b180d69f52798bdccb1157468e079fec545363b43",
-  "size": 8060184,
-  "notes": "Expand sigils and upgrade ascension ceremony",
-  "publishedAt": "2026-06-30T22:45:25.336Z"
+  "versionCode": 155,
+  "versionName": "1.0.155",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.155/TAFU-update.apk",
+  "sha256": "e3408925f547c4a7cc9de797c02ef2ce00d569b9e6d083ec2fd8698fa1147604",
+  "size": 8061924,
+  "notes": "Anchor tree upgrades to the visual board",
+  "publishedAt": "2026-06-30T23:21:37.241Z"
 }
