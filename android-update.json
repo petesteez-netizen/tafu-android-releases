@@ -1,9 +1,9 @@
 {
-  "versionCode": 149,
-  "versionName": "1.0.149",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.149/TAFU-update.apk",
-  "sha256": "474840b81364efa715ece885f20da459fe52353bd23129e0f734b72600a5a206",
-  "size": 7561162,
-  "notes": "Remove sigil carousel behavior",
-  "publishedAt": "2026-06-30T11:49:14.442Z"
+  "versionCode": 150,
+  "versionName": "1.0.150",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.150/TAFU-update.apk",
+  "sha256": "6ac890e7e78f6f171ea3bd7731440c2b848720b4a3f9f083259660438b656971",
+  "size": 7563074,
+  "notes": "Stabilize sigils tree and phase timer",
+  "publishedAt": "2026-06-30T14:17:15.149Z"
 }
