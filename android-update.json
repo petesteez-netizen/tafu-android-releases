@@ -1,9 +1,9 @@
 {
-  "versionCode": 145,
-  "versionName": "1.0.145",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.145/TAFU-update.apk",
-  "sha256": "d32daa8cec96d05dfc4056fc1e6bf2e4b953b46eb1867f3f22e65abb3af44579",
-  "size": 6979556,
-  "notes": "Tune tree node alignment",
-  "publishedAt": "2026-06-29T12:55:49.064Z"
+  "versionCode": 146,
+  "versionName": "1.0.146",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.146/TAFU-update.apk",
+  "sha256": "892e1668412dc9895794767c87e167cc4dfbe2a5867e1b413390045fc1ac753e",
+  "size": 6979408,
+  "notes": "Fix tree chakra art and socket mapping",
+  "publishedAt": "2026-06-30T02:46:43.075Z"
 }
