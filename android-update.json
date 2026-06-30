@@ -1,9 +1,9 @@
 {
-  "versionCode": 146,
-  "versionName": "1.0.146",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.146/TAFU-update.apk",
-  "sha256": "892e1668412dc9895794767c87e167cc4dfbe2a5867e1b413390045fc1ac753e",
-  "size": 6979408,
-  "notes": "Fix tree chakra art and socket mapping",
-  "publishedAt": "2026-06-30T02:46:43.075Z"
+  "versionCode": 147,
+  "versionName": "1.0.147",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.147/TAFU-update.apk",
+  "sha256": "111a6a1b5c64bb3b858387399f2fb15c31edb5d7c813c54d47733f856b495d34",
+  "size": 7221029,
+  "notes": "Add jeweled chakra tree assets",
+  "publishedAt": "2026-06-30T03:12:42.429Z"
 }
