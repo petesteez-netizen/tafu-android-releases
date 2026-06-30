@@ -1,9 +1,9 @@
 {
-  "versionCode": 152,
-  "versionName": "1.0.152",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.152/TAFU-update.apk",
-  "sha256": "e6ee751a0b5c5410abf043d6fe99ab47b621271782eb311cb8adc13ae8f49221",
-  "size": 8057560,
-  "notes": "Add generated sigil relic medallions",
-  "publishedAt": "2026-06-30T16:55:11.960Z"
+  "versionCode": 153,
+  "versionName": "1.0.153",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.153/TAFU-update.apk",
+  "sha256": "b3e61b09e5e98ab44a5fdf09eafc128243a9ea36267e4f36a0ec0e8d7e4567cb",
+  "size": 8058564,
+  "notes": "Reimagine tree screen purchase layout",
+  "publishedAt": "2026-06-30T22:07:52.169Z"
 }
