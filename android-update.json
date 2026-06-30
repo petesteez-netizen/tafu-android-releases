@@ -1,9 +1,9 @@
 {
-  "versionCode": 147,
-  "versionName": "1.0.147",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.147/TAFU-update.apk",
-  "sha256": "111a6a1b5c64bb3b858387399f2fb15c31edb5d7c813c54d47733f856b495d34",
-  "size": 7221029,
-  "notes": "Add jeweled chakra tree assets",
-  "publishedAt": "2026-06-30T03:12:42.429Z"
+  "versionCode": 148,
+  "versionName": "1.0.148",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.148/TAFU-update.apk",
+  "sha256": "8b20f0b75a94fdc87adff210a96960c51d226a90cf2e1011bdeff3ffddd6de75",
+  "size": 7562654,
+  "notes": "Retool sigils for claimable rewards",
+  "publishedAt": "2026-06-30T11:30:04.357Z"
 }
