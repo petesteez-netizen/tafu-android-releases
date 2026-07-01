@@ -1,9 +1,9 @@
 {
-  "versionCode": 157,
-  "versionName": "1.0.157",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.157/TAFU-update.apk",
-  "sha256": "b02f43b153281613aee074c3a0366e58d1025517766eff8e50749356da41c604",
-  "size": 8061924,
-  "notes": "Refine tree overlay balance",
-  "publishedAt": "2026-07-01T03:04:54.325Z"
+  "versionCode": 158,
+  "versionName": "1.0.158",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.158/TAFU-update.apk",
+  "sha256": "7309c54d10eaa108133e445bb93850093d60392899e286062e6064c825c2d1ad",
+  "size": 8062516,
+  "notes": "Embed tree side sockets into the board",
+  "publishedAt": "2026-07-01T03:13:57.778Z"
 }
