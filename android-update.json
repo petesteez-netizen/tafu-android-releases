@@ -1,9 +1,9 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.158",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.158/TAFU-update.apk",
-  "sha256": "7309c54d10eaa108133e445bb93850093d60392899e286062e6064c825c2d1ad",
-  "size": 8062516,
-  "notes": "Embed tree side sockets into the board",
-  "publishedAt": "2026-07-01T03:13:57.778Z"
+  "versionCode": 159,
+  "versionName": "1.0.159",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.159/TAFU-update.apk",
+  "sha256": "9fd512039a818a0031c55ee3fc001f0379ae132458a79bbabf48a84d2f0d4aa7",
+  "size": 8063056,
+  "notes": "Anchor tree nodes to generated board",
+  "publishedAt": "2026-07-01T15:12:00.460Z"
 }
