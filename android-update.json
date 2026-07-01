@@ -1,9 +1,9 @@
 {
-  "versionCode": 161,
-  "versionName": "1.0.161",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.161/TAFU-update.apk",
-  "sha256": "ebfdbd6672d5ca6c5c3ab5a56baec228d020ee94d4aeed4ad824a43d53fb575a",
-  "size": 8064116,
-  "notes": "Fix GitHub Pages deployment",
-  "publishedAt": "2026-07-01T20:40:47.623Z"
+  "versionCode": 162,
+  "versionName": "1.0.162",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.162/TAFU-update.apk",
+  "sha256": "8de73a69630c41f7f52d86bc9d97734e114f625ff30e09fd08c13f676aed0af6",
+  "size": 8064256,
+  "notes": "Reduce tree center node scale",
+  "publishedAt": "2026-07-01T20:57:22.198Z"
 }
