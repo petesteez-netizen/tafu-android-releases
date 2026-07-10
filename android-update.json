@@ -1,9 +1,14 @@
 {
-  "versionCode": 216,
-  "versionName": "1.0.216",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.216/TAFU-update.apk",
-  "sha256": "6a91b924c76e3d89b788fac86e41433c53eb7692c1074624d638cbe63ca0462c",
-  "size": 20947930,
-  "notes": "Automatic Android build from 8ad47c9f1d9a5a5f3e3cfee236da37a7160515e8",
-  "publishedAt": "2026-07-10T23:14:27.000Z"
+  "versionCode": 217,
+  "versionName": "1.0.217",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.217/TAFU-update.apk",
+  "sha256": "8e0ef0ff55c49d96f98b5736653e353ee38b67603d0b8932d98872ab5468f643",
+  "size": 20938490,
+  "notes": "New: Show informative Android update notes.",
+  "highlights": [
+    "New: Show informative Android update notes.",
+    "Add validated Buzz Cut V3 raster overlays.",
+    "Show readable release summaries in the Updates footer."
+  ],
+  "publishedAt": "2026-07-10T23:45:55.000Z"
 }
