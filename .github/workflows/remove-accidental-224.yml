@@ -1,4 +1,5 @@
 name: Remove accidental Android 1.0.224
+# One-time correction for the unintended no-op release.
 
 on:
   push:
