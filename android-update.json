@@ -1,14 +1,14 @@
 {
-  "versionCode": 220,
-  "versionName": "1.0.220",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.220/TAFU-update.apk",
-  "sha256": "bed65ef673148fbdaad131589e67cc282384b2b123284e0e47a7ce8b2c53ccb4",
-  "size": 20847506,
-  "notes": "New: Natural Tapered Coils V2 overlays.",
+  "versionCode": 221,
+  "versionName": "1.0.221",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.221/TAFU-update.apk",
+  "sha256": "dbe1832a8290aa1c8044a6a5aa9f8aae4ba39a281072515cda007d6cc17b7408",
+  "size": 20853662,
+  "notes": "New: Natural Short Locs V2 overlays.",
   "highlights": [
-    "New: Natural Tapered Coils V2 overlays.",
-    "Use separate compact masculine and fuller feminine coil sources.",
-    "Remove the old face-crossing bead-ring candidate."
+    "New: Natural Short Locs V2 overlays.",
+    "Use separate rooted masculine and side-parted feminine loc sources.",
+    "Remove the old bald-scalp and eye-bar candidate."
   ],
-  "publishedAt": "2026-07-11T01:08:35.000Z"
+  "publishedAt": "2026-07-11T02:00:30.000Z"
 }
