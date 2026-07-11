@@ -1,14 +1,12 @@
 {
-  "versionCode": 222,
-  "versionName": "1.0.222",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.222/TAFU-update.apk",
-  "sha256": "0af0b58cc1fbf8eb474f3859c8a85bd230ada51d9004975b048e237a2eb77ba6",
-  "size": 22430426,
-  "notes": "New: Complete natural Vessel hair and facial-hair overlays.",
+  "versionCode": 223,
+  "versionName": "1.0.223",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.223/TAFU-update.apk",
+  "sha256": "3b08bbcc7bc25794f55c5019bfc93eeafb8df00ef2335936748fdc68bbe69964",
+  "size": 23968958,
+  "notes": "New: Expand and repair Vessel hair options.",
   "highlights": [
-    "New: Complete natural Vessel hair and facial-hair overlays.",
-    "Add form-specific Long Locs, Bob, Long Straight, Box Braids, and Bun overlays.",
-    "Add tintable Goatee and Short Beard overlays that follow the selected hair color."
+    "New: Expand and repair Vessel hair options."
   ],
-  "publishedAt": "2026-07-11T04:16:31.000Z"
+  "publishedAt": "2026-07-11T05:45:36.000Z"
 }
