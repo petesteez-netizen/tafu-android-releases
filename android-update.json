@@ -1,14 +1,14 @@
 {
-  "versionCode": 217,
-  "versionName": "1.0.217",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.217/TAFU-update.apk",
-  "sha256": "8e0ef0ff55c49d96f98b5736653e353ee38b67603d0b8932d98872ab5468f643",
-  "size": 20938490,
-  "notes": "New: Show informative Android update notes.",
+  "versionCode": 218,
+  "versionName": "1.0.218",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.218/TAFU-update.apk",
+  "sha256": "abc27c9e51e5a0848bcd04a7981704e98b3cc3c0b6262efb1247d2a3df400f68",
+  "size": 20913122,
+  "notes": "Fixed: Replace cap-like Buzz Cut with natural V6 overlays.",
   "highlights": [
-    "New: Show informative Android update notes.",
-    "Add validated Buzz Cut V3 raster overlays.",
-    "Show readable release summaries in the Updates footer."
+    "Fixed: Replace cap-like Buzz Cut with natural V6 overlays.",
+    "Use separate masculine and feminine photoreal hairline sources.",
+    "Keep approved faces and scalp shading untouched."
   ],
-  "publishedAt": "2026-07-10T23:45:55.000Z"
+  "publishedAt": "2026-07-11T00:18:31.000Z"
 }
