@@ -1,12 +1,12 @@
 {
-  "versionCode": 223,
-  "versionName": "1.0.223",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.223/TAFU-update.apk",
-  "sha256": "3b08bbcc7bc25794f55c5019bfc93eeafb8df00ef2335936748fdc68bbe69964",
-  "size": 23968958,
-  "notes": "New: Expand and repair Vessel hair options.",
+  "versionCode": 224,
+  "versionName": "1.0.224",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.224/TAFU-update.apk",
+  "sha256": "803f0ce5effff4e5a31d2a16e2e9300eab3cd38864ff87ab269d0d5ff5fc3af7",
+  "size": 23968866,
+  "notes": "Updated: Reduce GitHub Actions artifact storage (#47).",
   "highlights": [
-    "New: Expand and repair Vessel hair options."
+    "Updated: Reduce GitHub Actions artifact storage (#47)."
   ],
-  "publishedAt": "2026-07-11T05:45:36.000Z"
+  "publishedAt": "2026-07-11T14:40:20.000Z"
 }
