@@ -1,12 +1,12 @@
 {
-  "versionCode": 224,
-  "versionName": "1.0.224",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.224/TAFU-update.apk",
-  "sha256": "637baae04258531ba874106703c2d68649ab6b157800789751b00efed2829604",
-  "size": 16304192,
-  "notes": "Updated: Stabilize canonical TAFU runtime and Android release path (#53).",
+  "versionCode": 225,
+  "versionName": "1.0.225",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.225/TAFU-update.apk",
+  "sha256": "86a7f18997da0ed3fc46008b49bd6310c04836f5f8d92d415f804497291a5fea",
+  "size": 16146121,
+  "notes": "Updated: Rebuild the Tree of Light sanctum (#55).",
   "highlights": [
-    "Updated: Stabilize canonical TAFU runtime and Android release path (#53)."
+    "Updated: Rebuild the Tree of Light sanctum (#55)."
   ],
-  "publishedAt": "2026-07-12T06:55:01.000Z"
+  "publishedAt": "2026-07-12T15:25:05.000Z"
 }
