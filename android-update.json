@@ -1,12 +1,12 @@
 {
-  "versionCode": 226,
-  "versionName": "1.0.226",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.226/TAFU-update.apk",
-  "sha256": "1ea58159b23d753bd29641643e42defc9d79522b83839a3c79b31f04a7a33baf",
-  "size": 16146425,
-  "notes": "Updated: Fix production Tree node alignment (#57).",
+  "versionCode": 227,
+  "versionName": "1.0.227",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.227/TAFU-update.apk",
+  "sha256": "07caf6d67acd42a5b095b2e15848b63a496de581a5cf7a1cfa35b02de3bcb59c",
+  "size": 16148537,
+  "notes": "Updated: Turn Tree branches into flowing energy (#59).",
   "highlights": [
-    "Updated: Fix production Tree node alignment (#57)."
+    "Updated: Turn Tree branches into flowing energy (#59)."
   ],
-  "publishedAt": "2026-07-12T16:36:09.000Z"
+  "publishedAt": "2026-07-12T18:30:25.000Z"
 }
