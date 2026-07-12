@@ -1,12 +1,12 @@
 {
-  "versionCode": 225,
-  "versionName": "1.0.225",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.225/TAFU-update.apk",
-  "sha256": "86a7f18997da0ed3fc46008b49bd6310c04836f5f8d92d415f804497291a5fea",
-  "size": 16146121,
-  "notes": "Updated: Rebuild the Tree of Light sanctum (#55).",
+  "versionCode": 226,
+  "versionName": "1.0.226",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.226/TAFU-update.apk",
+  "sha256": "1ea58159b23d753bd29641643e42defc9d79522b83839a3c79b31f04a7a33baf",
+  "size": 16146425,
+  "notes": "Updated: Fix production Tree node alignment (#57).",
   "highlights": [
-    "Updated: Rebuild the Tree of Light sanctum (#55)."
+    "Updated: Fix production Tree node alignment (#57)."
   ],
-  "publishedAt": "2026-07-12T15:25:05.000Z"
+  "publishedAt": "2026-07-12T16:36:09.000Z"
 }
