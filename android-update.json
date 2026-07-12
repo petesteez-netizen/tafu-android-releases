@@ -1,12 +1,12 @@
 {
-  "versionCode": 227,
-  "versionName": "1.0.227",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.227/TAFU-update.apk",
-  "sha256": "07caf6d67acd42a5b095b2e15848b63a496de581a5cf7a1cfa35b02de3bcb59c",
-  "size": 16148537,
-  "notes": "Updated: Turn Tree branches into flowing energy (#59).",
+  "versionCode": 228,
+  "versionName": "1.0.228",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.228/TAFU-update.apk",
+  "sha256": "47a1b3b69cd162f39e8552d8ce328d6f10c08cb436998102c4fe16d0ebac726c",
+  "size": 16165553,
+  "notes": "Updated: Expand the Path with 32 branches and Forty-Nine Seals (#61).",
   "highlights": [
-    "Updated: Turn Tree branches into flowing energy (#59)."
+    "Updated: Expand the Path with 32 branches and Forty-Nine Seals (#61)."
   ],
-  "publishedAt": "2026-07-12T18:30:25.000Z"
+  "publishedAt": "2026-07-12T20:49:50.000Z"
 }
