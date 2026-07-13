@@ -1,12 +1,12 @@
 {
-  "versionCode": 232,
-  "versionName": "1.0.232",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.232/TAFU-update.apk",
-  "sha256": "46f1cab43ae3f5c36c6766894fdf6748b1f065d53d72a5741ce8365be184cad9",
-  "size": 16172165,
-  "notes": "Updated: Restore a precise living cue for Practice turns (#68).",
+  "versionCode": 233,
+  "versionName": "1.0.233",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.233/TAFU-update.apk",
+  "sha256": "4e032ba07f28141b241bce16d14c5827e9c4e656264eb9ffa74a07eddf118d4d",
+  "size": 16172797,
+  "notes": "Updated: Make Practice turn cues unmistakable (#69).",
   "highlights": [
-    "Updated: Restore a precise living cue for Practice turns (#68)."
+    "Updated: Make Practice turn cues unmistakable (#69)."
   ],
-  "publishedAt": "2026-07-13T05:34:02.000Z"
+  "publishedAt": "2026-07-13T18:16:43.000Z"
 }
