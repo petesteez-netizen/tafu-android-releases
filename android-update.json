@@ -1,12 +1,12 @@
 {
-  "versionCode": 229,
-  "versionName": "1.0.229",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.229/TAFU-update.apk",
-  "sha256": "1c9bbd674c40f16fd689c4fa01f662b99eca6eff7d82c11ec67246863a5faf10",
-  "size": 16166073,
-  "notes": "Updated: Keep Sigil discoveries clear of live stats (#63).",
+  "versionCode": 230,
+  "versionName": "1.0.230",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.230/TAFU-update.apk",
+  "sha256": "6ca2c9e7e5ae20629eb8bf162131270c0808e49e26b85cb2d54cad508d8cc08b",
+  "size": 16167209,
+  "notes": "Updated: Rebuild the Breath Cycle as a living four-phase current (#65).",
   "highlights": [
-    "Updated: Keep Sigil discoveries clear of live stats (#63)."
+    "Updated: Rebuild the Breath Cycle as a living four-phase current (#65)."
   ],
-  "publishedAt": "2026-07-13T00:50:14.000Z"
+  "publishedAt": "2026-07-13T02:49:40.000Z"
 }
