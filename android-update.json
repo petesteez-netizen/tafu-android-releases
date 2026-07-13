@@ -1,12 +1,12 @@
 {
-  "versionCode": 228,
-  "versionName": "1.0.228",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.228/TAFU-update.apk",
-  "sha256": "47a1b3b69cd162f39e8552d8ce328d6f10c08cb436998102c4fe16d0ebac726c",
-  "size": 16165553,
-  "notes": "Updated: Expand the Path with 32 branches and Forty-Nine Seals (#61).",
+  "versionCode": 229,
+  "versionName": "1.0.229",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.229/TAFU-update.apk",
+  "sha256": "1c9bbd674c40f16fd689c4fa01f662b99eca6eff7d82c11ec67246863a5faf10",
+  "size": 16166073,
+  "notes": "Updated: Keep Sigil discoveries clear of live stats (#63).",
   "highlights": [
-    "Updated: Expand the Path with 32 branches and Forty-Nine Seals (#61)."
+    "Updated: Keep Sigil discoveries clear of live stats (#63)."
   ],
-  "publishedAt": "2026-07-12T20:49:50.000Z"
+  "publishedAt": "2026-07-13T00:50:14.000Z"
 }
