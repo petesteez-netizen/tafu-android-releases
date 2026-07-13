@@ -1,12 +1,12 @@
 {
-  "versionCode": 230,
-  "versionName": "1.0.230",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.230/TAFU-update.apk",
-  "sha256": "6ca2c9e7e5ae20629eb8bf162131270c0808e49e26b85cb2d54cad508d8cc08b",
-  "size": 16167209,
-  "notes": "Updated: Rebuild the Breath Cycle as a living four-phase current (#65).",
+  "versionCode": 231,
+  "versionName": "1.0.231",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.231/TAFU-update.apk",
+  "sha256": "c188f57a407b431ee42716514c633a70bed0c71af97eeeca4e86a1b4dd9c494e",
+  "size": 16170277,
+  "notes": "Updated: Make Practice timing truthful and screen-wide (#67).",
   "highlights": [
-    "Updated: Rebuild the Breath Cycle as a living four-phase current (#65)."
+    "Updated: Make Practice timing truthful and screen-wide (#67)."
   ],
-  "publishedAt": "2026-07-13T02:49:40.000Z"
+  "publishedAt": "2026-07-13T04:17:01.000Z"
 }
