@@ -1,12 +1,12 @@
 {
-  "versionCode": 234,
-  "versionName": "1.0.234",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.234/TAFU-update.apk",
-  "sha256": "a0ee9560c181e3c0fc5b81754a063ff889a0eeadbb8490b418b0ceb41ce0f204",
-  "size": 17347231,
-  "notes": "New: Refine Practice with sanctuaries and Daily Return (#70).",
+  "versionCode": 235,
+  "versionName": "1.0.235",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.235/TAFU-update.apk",
+  "sha256": "10829fe59bd6f99cbbf78c3f9603845faebfdeb2698a1981a25ba9c74afbd3bb",
+  "size": 17347215,
+  "notes": "Fixed: Keep Daily Return prompt available (#74).",
   "highlights": [
-    "New: Refine Practice with sanctuaries and Daily Return (#70)."
+    "Fixed: Keep Daily Return prompt available (#74)."
   ],
-  "publishedAt": "2026-07-17T01:25:46.000Z"
+  "publishedAt": "2026-07-17T01:42:21.000Z"
 }
