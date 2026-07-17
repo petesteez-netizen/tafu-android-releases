@@ -1,12 +1,12 @@
 {
-  "versionCode": 236,
-  "versionName": "1.0.236",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.236/TAFU-update.apk",
-  "sha256": "3edc95e242f389caa534603ebc4e9b9ba79641c4ccb0f1d3bab24781102b612c",
-  "size": 17348199,
-  "notes": "New: Vessel preview fit and zoom controls (#75).",
+  "versionCode": 237,
+  "versionName": "1.0.237",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.237/TAFU-update.apk",
+  "sha256": "f9d7298d024032a71347d31d3487d5289fff7770206059ff5064225fd5e6f923",
+  "size": 18039761,
+  "notes": "Updated: Author sanctuary environments, dormant crystals, and Vessel reframing (#76).",
   "highlights": [
-    "New: Vessel preview fit and zoom controls (#75)."
+    "Updated: Author sanctuary environments, dormant crystals, and Vessel reframing (#76)."
   ],
-  "publishedAt": "2026-07-17T02:17:26.000Z"
+  "publishedAt": "2026-07-17T04:22:37.000Z"
 }
