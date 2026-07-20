@@ -1,12 +1,12 @@
 {
-  "versionCode": 238,
-  "versionName": "1.0.238",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.238/TAFU-update.apk",
-  "sha256": "27a5e1cc9bc190cfdef58c8c2b131d295181cef8c08ebe3a95e828b7ea30f268",
-  "size": 17473070,
-  "notes": "Updated: Restore crystal material and correct Vessel temple light (#77).",
+  "versionCode": 239,
+  "versionName": "1.0.239",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.239/TAFU-update.apk",
+  "sha256": "0096b8d7ea7c8879b5d2fbf5640e49f72bb6ece028f17da382454297656336c2",
+  "size": 17980916,
+  "notes": "Updated: Raise TAFU visual, interaction, and Vessel quality.",
   "highlights": [
-    "Updated: Restore crystal material and correct Vessel temple light (#77)."
+    "Updated: Raise TAFU visual, interaction, and Vessel quality."
   ],
-  "publishedAt": "2026-07-17T05:52:36.000Z"
+  "publishedAt": "2026-07-20T03:40:56.000Z"
 }
