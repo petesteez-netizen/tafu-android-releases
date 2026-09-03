@@ -1,12 +1,12 @@
 {
-  "versionCode": 242,
-  "versionName": "1.0.242",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.242/TAFU-update.apk",
-  "sha256": "71b7aab173ff3a5f3995040b6aad5f0efbe0ec40de8ef54f0c86ccd7e76242ce",
-  "size": 18063922,
-  "notes": "Updated: Polish Root into one stable Grounded Cycle (#84).",
+  "versionCode": 243,
+  "versionName": "1.0.243",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.243/TAFU-update.apk",
+  "sha256": "08955f3be0a0a45a9d245eed7ef2af354ea73f6cfebc77694ae11e2c936808f2",
+  "size": 13392561,
+  "notes": "Updated: Ship complete Vessel and crystal polish (#85).",
   "highlights": [
-    "Updated: Polish Root into one stable Grounded Cycle (#84)."
+    "Updated: Ship complete Vessel and crystal polish (#85)."
   ],
-  "publishedAt": "2026-09-03T14:33:21.000Z"
+  "publishedAt": "2026-09-03T14:38:19.000Z"
 }
