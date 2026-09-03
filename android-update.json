@@ -1,14 +1,12 @@
 {
-  "versionCode": 241,
-  "versionName": "1.0.241",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.241/TAFU-update.apk",
-  "sha256": "bf9c5a8bccec6ece6735427b1cf57a4753bc81c0cebcdc1afd54d75a4dffb859",
-  "size": 18059106,
-  "notes": "Fixed: Move Attunement into crystals and stabilize Android scenes (#83).",
+  "versionCode": 242,
+  "versionName": "1.0.242",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.242/TAFU-update.apk",
+  "sha256": "71b7aab173ff3a5f3995040b6aad5f0efbe0ec40de8ef54f0c86ccd7e76242ce",
+  "size": 18063922,
+  "notes": "Updated: Polish Root into one stable Grounded Cycle (#84).",
   "highlights": [
-    "Fixed: Move Attunement into crystals and stabilize Android scenes (#83).",
-    "Fix(practice): move attunement into crystals and stabilize Android scenes.",
-    "Docs: record crystal attunement release gates."
+    "Updated: Polish Root into one stable Grounded Cycle (#84)."
   ],
-  "publishedAt": "2026-07-25T23:14:30.000Z"
+  "publishedAt": "2026-09-03T14:33:21.000Z"
 }
