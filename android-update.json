@@ -1,12 +1,12 @@
 {
-  "versionCode": 243,
-  "versionName": "1.0.243",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.243/TAFU-update.apk",
-  "sha256": "08955f3be0a0a45a9d245eed7ef2af354ea73f6cfebc77694ae11e2c936808f2",
-  "size": 13392561,
-  "notes": "Updated: Ship complete Vessel and crystal polish (#85).",
+  "versionCode": 244,
+  "versionName": "1.0.244",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.244/TAFU-update.apk",
+  "sha256": "f6fb09d376d83b719fc140d19a491e734cce403dfc6682ac49c13b1a5f4a4be5",
+  "size": 14197578,
+  "notes": "Updated: Fix Vessel hair registration, facial hair, trim tinting, and adornments.",
   "highlights": [
-    "Updated: Ship complete Vessel and crystal polish (#85)."
+    "Updated: Fix Vessel hair registration, facial hair, trim tinting, and adornments."
   ],
-  "publishedAt": "2026-09-03T14:38:19.000Z"
+  "publishedAt": "2026-09-09T14:49:41.000Z"
 }
