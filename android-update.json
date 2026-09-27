@@ -1,12 +1,12 @@
 {
-  "versionCode": 244,
-  "versionName": "1.0.244",
-  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.244/TAFU-update.apk",
-  "sha256": "f6fb09d376d83b719fc140d19a491e734cce403dfc6682ac49c13b1a5f4a4be5",
-  "size": 14197578,
-  "notes": "Updated: Fix Vessel hair registration, facial hair, trim tinting, and adornments.",
+  "versionCode": 245,
+  "versionName": "1.0.245",
+  "apkUrl": "https://github.com/petesteez-netizen/tafu-android-releases/releases/download/v1.0.245/TAFU-update.apk",
+  "sha256": "d2d555c837e4610b2845ea6aa220f3ecc9f4e28906ff5705067123dcafeff395",
+  "size": 14419791,
+  "notes": "Updated: TAFU v2: full rebuild with visual polish, natural Vessel, new Tree.",
   "highlights": [
-    "Updated: Fix Vessel hair registration, facial hair, trim tinting, and adornments."
+    "Updated: TAFU v2: full rebuild with visual polish, natural Vessel, new Tree."
   ],
-  "publishedAt": "2026-09-09T14:49:41.000Z"
+  "publishedAt": "2026-09-27T03:05:02.000Z"
 }
